@@ -4,11 +4,11 @@
 
 ## 相关项目
 
-- [微博热榜](https://github.com/lonnyzhang423/weibo-hot-hub)
-- [头条热榜](https://github.com/lonnyzhang423/toutiao-hot-hub)
-- [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
-- [GitHub热榜](https://github.com/lonnyzhang423/github-hot-hub)
-- [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
+- [微博热榜](https://github.com/it985/weibo-hot-hub)
+- [头条热榜](https://github.com/it985/toutiao-hot-hub)
+- [抖音热榜](https://github.com/it985/douyin-hot-hub)
+- [GitHub热榜](https://github.com/it985/github-hot-hub)
+- [v2ex热榜](https://github.com/it985/v2ex-hot-hub)
 
 
 `更新时间：2022-10-09 23:11:57 +0800`

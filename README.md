@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-07-04 01:10:34 +0800`
+`更新时间：2023-07-04 02:14:48 +0800`
 
 ## 热门搜索
 
@@ -51,8 +51,8 @@
 1. [两部门发布公告表示为维护国家安全和利益，决定对镓、锗相关物项实施出口管制，如何看待这一举措？](https://www.zhihu.com/question/610105939)
 1. [成绩去不了北大，但是能去北大医学部，应该去吗?](https://www.zhihu.com/question/609084243)
 1. [网友热议贵州村超「招一万民工月薪 3000 训练一年，选 30 人去踢世界杯」，如何评价这样的观点？](https://www.zhihu.com/question/610056090)
-1. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)
 1. [环卫工儿子高考 687 分被多校争抢，父亲称「就算贷款、卖房也会让他读下去」，如何看待此事？](https://www.zhihu.com/question/610045381)
+1. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)
 1. [如果加大力度刺激楼市，会不会出现新一轮的楼市泡沫？楼市还具备再出现一轮泡沫的条件吗？](https://www.zhihu.com/question/609279307)
 1. [滔搏电子竞技俱乐部发声「被行政处罚的喻某波与旗下选手喻文波毫无关联」对此你有什么想说？](https://www.zhihu.com/question/610071455)
 1. [一名北京地接导游在颐和园中暑送医，经抢救无效死亡，如何看待此事？高温天气户外作业如何预防中暑？](https://www.zhihu.com/question/610074062)
@@ -72,14 +72,15 @@
 1. [当前的经济环境下，如果要刺激楼市来稳经济，还有哪些牌可以打？预计效果如何？](https://www.zhihu.com/question/609280405)
 1. [电影《消失的她》中，哪些因素导致了何非的悲剧？](https://www.zhihu.com/question/609564487)
 1. [如何解决工作中的拖延症？](https://www.zhihu.com/question/599798541)
+1. [朝鲜女孩拍视频介绍平壤，韩国以「宣传朝鲜体制」为由屏蔽，谷歌封号，透露了哪些信息？](https://www.zhihu.com/question/610162816)
 1. [美国男篮出征世界杯 12 人名单已确定，年轻人为主，无巨星领衔，如何评价这份名单，能取得什么成绩？](https://www.zhihu.com/question/610021677)
 1. [2023 LPL 夏季赛 RA 0:2 TES，如何评价这场比赛？](https://www.zhihu.com/question/609931727)
 1. [为什么进入职场后感觉越来越孤独了？](https://www.zhihu.com/question/609391774)
-1. [如何看待「七成应届生毕业后还需父母经济支持」一事？毕业后你需要父母经济支持了吗？](https://www.zhihu.com/question/609808731)
 1. [你能接受孩子变得平庸吗？](https://www.zhihu.com/question/606097881)
 1. [想换台好点的公路车通勤，但是怕丟，有什么好办法吗？](https://www.zhihu.com/question/607731208)
-1. [为什么杨毅说 CBA 的商业化程度甚至还不如 LPL？](https://www.zhihu.com/question/609130013)
+1. [如何看待「七成应届生毕业后还需父母经济支持」一事？毕业后你需要父母经济支持了吗？](https://www.zhihu.com/question/609808731)
 1. [怎么看待《最终幻想 16》评价两极分化?](https://www.zhihu.com/question/609498883)
+1. [为什么杨毅说 CBA 的商业化程度甚至还不如 LPL？](https://www.zhihu.com/question/609130013)
 1. [美国财长耶伦将于 7 月 6 日至 9 日访华，此行有哪些信息值得关注？中美关系将释放哪些新信号？](https://www.zhihu.com/question/610022102)
 1. [多家大行下调美元存款利率，缓解境内美元存贷款利率「倒挂」，哪些信息值得关注？](https://www.zhihu.com/question/609986798)
 1. [电影《消失的她》都有哪些逻辑漏洞？](https://www.zhihu.com/question/609581329)
@@ -87,14 +88,13 @@
 1. [夏天涂了底妆后还需要涂防晒霜吗？有哪些「轻薄」好用的防晒霜？](https://www.zhihu.com/question/609235350)
 1. [在 AMD 工作是怎样的体验？](https://www.zhihu.com/question/35233662)
 1. [正常人的健身进度是什么样的？](https://www.zhihu.com/question/427937660)
-1. [特斯拉 Q2 向全球客户交付了超过 46.6 万辆汽车，创下了季度销售纪录，如何看待这一成绩？](https://www.zhihu.com/question/610021611)
 1. [想问问滑板人，如何看待不滑板的人穿滑板鞋？](https://www.zhihu.com/question/606866883)
+1. [特斯拉 Q2 向全球客户交付了超过 46.6 万辆汽车，创下了季度销售纪录，如何看待这一成绩？](https://www.zhihu.com/question/610021611)
 1. [男朋友让我讨好他妈妈，搞好婆媳关系，而且他妈一个人在家他就要回家陪她，这正常吗?](https://www.zhihu.com/question/608944110)
 1. [过量运动会让人衰老加快吗？](https://www.zhihu.com/question/590739909)
 1. [在《知否》里，林噙霜在墨兰的婚事上为什么突然不装了，和盛纮完全撕破了脸？](https://www.zhihu.com/question/576309891)
-1. [电影《消失的她》改编自真实事件，该事件原型是什么样的？](https://www.zhihu.com/question/608181201)
 1. [骑公路车不参加比赛，还有必要追求速度吗?](https://www.zhihu.com/question/546887149)
-1. [一个人离职前有什么征兆？](https://www.zhihu.com/question/486792072)
+1. [家里面已经有洗地机了，还有必要购入吸尘器吗？](https://www.zhihu.com/question/455905085)
 
 ## 热门视频
 
@@ -104,8 +104,8 @@
 1. [两部门发布公告表示为维护国家安全和利益，决定对镓、锗相关物项实施出口管制，如何看待这一举措？](https://www.zhihu.com/question/610105939)
 1. [成绩去不了北大，但是能去北大医学部，应该去吗?](https://www.zhihu.com/question/609084243)
 1. [网友热议贵州村超「招一万民工月薪 3000 训练一年，选 30 人去踢世界杯」，如何评价这样的观点？](https://www.zhihu.com/question/610056090)
-1. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)
 1. [环卫工儿子高考 687 分被多校争抢，父亲称「就算贷款、卖房也会让他读下去」，如何看待此事？](https://www.zhihu.com/question/610045381)
+1. [上海一豪宅拍出 1.58 亿天价，单价超 34 万，或由得物创始人竞得，哪些信息值得关注？](https://www.zhihu.com/question/610023999)
 1. [如果加大力度刺激楼市，会不会出现新一轮的楼市泡沫？楼市还具备再出现一轮泡沫的条件吗？](https://www.zhihu.com/question/609279307)
 1. [滔搏电子竞技俱乐部发声「被行政处罚的喻某波与旗下选手喻文波毫无关联」对此你有什么想说？](https://www.zhihu.com/question/610071455)
 1. [一名北京地接导游在颐和园中暑送医，经抢救无效死亡，如何看待此事？高温天气户外作业如何预防中暑？](https://www.zhihu.com/question/610074062)
@@ -125,14 +125,15 @@
 1. [当前的经济环境下，如果要刺激楼市来稳经济，还有哪些牌可以打？预计效果如何？](https://www.zhihu.com/question/609280405)
 1. [电影《消失的她》中，哪些因素导致了何非的悲剧？](https://www.zhihu.com/question/609564487)
 1. [如何解决工作中的拖延症？](https://www.zhihu.com/question/599798541)
+1. [朝鲜女孩拍视频介绍平壤，韩国以「宣传朝鲜体制」为由屏蔽，谷歌封号，透露了哪些信息？](https://www.zhihu.com/question/610162816)
 1. [美国男篮出征世界杯 12 人名单已确定，年轻人为主，无巨星领衔，如何评价这份名单，能取得什么成绩？](https://www.zhihu.com/question/610021677)
 1. [2023 LPL 夏季赛 RA 0:2 TES，如何评价这场比赛？](https://www.zhihu.com/question/609931727)
 1. [为什么进入职场后感觉越来越孤独了？](https://www.zhihu.com/question/609391774)
-1. [如何看待「七成应届生毕业后还需父母经济支持」一事？毕业后你需要父母经济支持了吗？](https://www.zhihu.com/question/609808731)
 1. [你能接受孩子变得平庸吗？](https://www.zhihu.com/question/606097881)
 1. [想换台好点的公路车通勤，但是怕丟，有什么好办法吗？](https://www.zhihu.com/question/607731208)
-1. [为什么杨毅说 CBA 的商业化程度甚至还不如 LPL？](https://www.zhihu.com/question/609130013)
+1. [如何看待「七成应届生毕业后还需父母经济支持」一事？毕业后你需要父母经济支持了吗？](https://www.zhihu.com/question/609808731)
 1. [怎么看待《最终幻想 16》评价两极分化?](https://www.zhihu.com/question/609498883)
+1. [为什么杨毅说 CBA 的商业化程度甚至还不如 LPL？](https://www.zhihu.com/question/609130013)
 1. [美国财长耶伦将于 7 月 6 日至 9 日访华，此行有哪些信息值得关注？中美关系将释放哪些新信号？](https://www.zhihu.com/question/610022102)
 1. [多家大行下调美元存款利率，缓解境内美元存贷款利率「倒挂」，哪些信息值得关注？](https://www.zhihu.com/question/609986798)
 1. [电影《消失的她》都有哪些逻辑漏洞？](https://www.zhihu.com/question/609581329)
@@ -140,14 +141,13 @@
 1. [夏天涂了底妆后还需要涂防晒霜吗？有哪些「轻薄」好用的防晒霜？](https://www.zhihu.com/question/609235350)
 1. [在 AMD 工作是怎样的体验？](https://www.zhihu.com/question/35233662)
 1. [正常人的健身进度是什么样的？](https://www.zhihu.com/question/427937660)
-1. [特斯拉 Q2 向全球客户交付了超过 46.6 万辆汽车，创下了季度销售纪录，如何看待这一成绩？](https://www.zhihu.com/question/610021611)
 1. [想问问滑板人，如何看待不滑板的人穿滑板鞋？](https://www.zhihu.com/question/606866883)
+1. [特斯拉 Q2 向全球客户交付了超过 46.6 万辆汽车，创下了季度销售纪录，如何看待这一成绩？](https://www.zhihu.com/question/610021611)
 1. [男朋友让我讨好他妈妈，搞好婆媳关系，而且他妈一个人在家他就要回家陪她，这正常吗?](https://www.zhihu.com/question/608944110)
 1. [过量运动会让人衰老加快吗？](https://www.zhihu.com/question/590739909)
 1. [在《知否》里，林噙霜在墨兰的婚事上为什么突然不装了，和盛纮完全撕破了脸？](https://www.zhihu.com/question/576309891)
-1. [电影《消失的她》改编自真实事件，该事件原型是什么样的？](https://www.zhihu.com/question/608181201)
 1. [骑公路车不参加比赛，还有必要追求速度吗?](https://www.zhihu.com/question/546887149)
-1. [一个人离职前有什么征兆？](https://www.zhihu.com/question/486792072)
+1. [家里面已经有洗地机了，还有必要购入吸尘器吗？](https://www.zhihu.com/question/455905085)
 
 ## 历史归档
 

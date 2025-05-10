@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-10 20:28:45 +0800`
+`更新时间：2025-05-10 21:22:38 +0800`
 
 ## 热门搜索
 
-1. [一夜之间印巴大打出手](https://www.zhihu.com/search?q=%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4%E5%8D%B0%E5%B7%B4%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B)
+1. [美联储宣布维持基准利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%9F%BA%E5%87%86%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [勇士vs森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [体制内你见到最狠的是什么样](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E4%BD%A0%E8%A7%81%E5%88%B0%E6%9C%80%E7%8B%A0%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
@@ -25,9 +25,8 @@
 1. [西安雷雨夜空现条状不明物](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E9%9B%B7%E9%9B%A8%E5%A4%9C%E7%A9%BA%E7%8E%B0%E6%9D%A1%E7%8A%B6%E4%B8%8D%E6%98%8E%E7%89%A9)
 1. [中方和欧洲议会全面取消对交往的限制](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%92%8C%E6%AC%A7%E6%B4%B2%E8%AE%AE%E4%BC%9A%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E5%AF%B9%E4%BA%A4%E5%BE%80%E7%9A%84%E9%99%90%E5%88%B6)
 1. [斯凯奇宣布退市](https://www.zhihu.com/search?q=%E6%96%AF%E5%87%AF%E5%A5%87%E5%AE%A3%E5%B8%83%E9%80%80%E5%B8%82)
-1. [比亚迪海狮07dm-i上市16.98万起](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B5%B7%E7%8B%AE07dm-i%E4%B8%8A%E5%B8%8216.98%E4%B8%87%E8%B5%B7)
+1. [一夜之间印巴大打出手](https://www.zhihu.com/search?q=%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4%E5%8D%B0%E5%B7%B4%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B)
 1. [巴方称印军发动 24 起袭击](https://www.zhihu.com/search?q=%E5%B7%B4%E6%96%B9%E7%A7%B0%E5%8D%B0%E5%86%9B%E5%8F%91%E5%8A%A8%2024%20%E8%B5%B7%E8%A2%AD%E5%87%BB)
-1. [美联储宣布维持基准利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%9F%BA%E5%87%86%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [印巴冲突](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4%E5%86%B2%E7%AA%81)
 1. [公积金贷款利率降 0.25 个百分点](https://www.zhihu.com/search?q=%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E9%99%8D%200.25%20%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9)
 1. [央行宣布降准降息](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%E9%99%8D%E5%87%86%E9%99%8D%E6%81%AF)
@@ -37,7 +36,6 @@
 1. [胖南来、胖西来、胖北来等商标遭抢注](https://www.zhihu.com/search?q=%E8%83%96%E5%8D%97%E6%9D%A5%E3%80%81%E8%83%96%E8%A5%BF%E6%9D%A5%E3%80%81%E8%83%96%E5%8C%97%E6%9D%A5%E7%AD%89%E5%95%86%E6%A0%87%E9%81%AD%E6%8A%A2%E6%B3%A8)
 1. [美联储连续 3 次维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E8%BF%9E%E7%BB%AD%203%20%E6%AC%A1%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [三德子赵亮卖土鸡土是商标名](https://www.zhihu.com/search?q=%E4%B8%89%E5%BE%B7%E5%AD%90%E8%B5%B5%E4%BA%AE%E5%8D%96%E5%9C%9F%E9%B8%A1%E5%9C%9F%E6%98%AF%E5%95%86%E6%A0%87%E5%90%8D)
-1. [泡泡玛特股份被创始股东高位清仓](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E8%82%A1%E4%BB%BD%E8%A2%AB%E5%88%9B%E5%A7%8B%E8%82%A1%E4%B8%9C%E9%AB%98%E4%BD%8D%E6%B8%85%E4%BB%93)
 
 ## 热门话题
 

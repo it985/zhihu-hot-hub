@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-13 00:20:37 +0800`
+`更新时间：2025-06-13 01:15:27 +0800`
 
 ## 热门搜索
 
-1. [海底捞上线自助午餐](https://www.zhihu.com/search?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%8A%E7%BA%BF%E8%87%AA%E5%8A%A9%E5%8D%88%E9%A4%90)
-1. [皮肤不好可能是身体缺营养了](https://www.zhihu.com/search?q=%E7%9A%AE%E8%82%A4%E4%B8%8D%E5%A5%BD%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BA%AB%E4%BD%93%E7%BC%BA%E8%90%A5%E5%85%BB%E4%BA%86)
+1. [B 站崩了](https://www.zhihu.com/search?q=B%20%E7%AB%99%E5%B4%A9%E4%BA%86)
+1. [广东启动防风ⅳ级应急响应](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E5%90%AF%E5%8A%A8%E9%98%B2%E9%A3%8E%E2%85%B3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94)
 1. [SEVENTEEN新歌mv](https://www.zhihu.com/search?q=SEVENTEEN%E6%96%B0%E6%AD%8Cmv)
 1. [歌手第五期歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%BA%94%E6%9C%9F%E6%AD%8C%E5%8D%95)
 1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E7%9D%80%E8%A3%85%E6%9C%80%E5%BF%8C%E8%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)

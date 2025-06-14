@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-14 19:12:32 +0800`
+`更新时间：2025-06-14 20:30:18 +0800`
 
 ## 热门搜索
 
-1. [四六级](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7)
-1. [B站崩了](https://www.zhihu.com/search?q=B%E7%AB%99%E5%B4%A9%E4%BA%86)
+1. [Labubu爆火哪些国货被低估了](https://www.zhihu.com/search?q=Labubu%E7%88%86%E7%81%AB%E5%93%AA%E4%BA%9B%E5%9B%BD%E8%B4%A7%E8%A2%AB%E4%BD%8E%E4%BC%B0%E4%BA%86)
+1. [樊振东乒超7连胜](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B9%92%E8%B6%857%E8%BF%9E%E8%83%9C)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)

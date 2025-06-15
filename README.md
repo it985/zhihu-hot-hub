@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-15 07:15:55 +0800`
+`更新时间：2025-06-15 09:26:52 +0800`
 
 ## 热门搜索
 
-1. [四六级](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7)
-1. [B站崩了](https://www.zhihu.com/search?q=B%E7%AB%99%E5%B4%A9%E4%BA%86)
+1. [步行者116比107雷霆](https://www.zhihu.com/search?q=%E6%AD%A5%E8%A1%8C%E8%80%85116%E6%AF%94107%E9%9B%B7%E9%9C%86)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)

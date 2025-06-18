@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-18 20:34:42 +0800`
+`更新时间：2025-06-18 21:31:20 +0800`
 
 ## 热门搜索
 
-1. [女子喉咙不适输液 2 分钟后身亡](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%96%89%E5%92%99%E4%B8%8D%E9%80%82%E8%BE%93%E6%B6%B2%202%20%E5%88%86%E9%92%9F%E5%90%8E%E8%BA%AB%E4%BA%A1)
+1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%B9%B2%E8%BF%87%E6%9C%80%E7%89%9B%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E8%80%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [发明魔芋的前辈是经历了什么](https://www.zhihu.com/search?q=%E5%8F%91%E6%98%8E%E9%AD%94%E8%8A%8B%E7%9A%84%E5%89%8D%E8%BE%88%E6%98%AF%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [健身为什么比较花钱呢](https://www.zhihu.com/search?q=%E5%81%A5%E8%BA%AB%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94%E8%BE%83%E8%8A%B1%E9%92%B1%E5%91%A2)

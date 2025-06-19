@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-19 17:18:07 +0800`
+`更新时间：2025-06-19 18:17:56 +0800`
 
 ## 热门搜索
 
@@ -34,8 +34,9 @@
 1. [第二款玄戒 O1 平板 7S Pro将发布](https://www.zhihu.com/search?q=%E7%AC%AC%E4%BA%8C%E6%AC%BE%E7%8E%84%E6%88%92%20O1%20%E5%B9%B3%E6%9D%BF%207S%20Pro%E5%B0%86%E5%8F%91%E5%B8%83)
 1. [奔驰车高速失控竟是前车主远程劫车](https://www.zhihu.com/search?q=%E5%A5%94%E9%A9%B0%E8%BD%A6%E9%AB%98%E9%80%9F%E5%A4%B1%E6%8E%A7%E7%AB%9F%E6%98%AF%E5%89%8D%E8%BD%A6%E4%B8%BB%E8%BF%9C%E7%A8%8B%E5%8A%AB%E8%BD%A6)
 1. [日本平价寿司北上广爆火](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%B9%B3%E4%BB%B7%E5%AF%BF%E5%8F%B8%E5%8C%97%E4%B8%8A%E5%B9%BF%E7%88%86%E7%81%AB)
+1. [以色列为何袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%BA%E4%BD%95%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [以色列情报网为何这么牛](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E6%83%85%E6%8A%A5%E7%BD%91%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E7%89%9B)
 1. [俄罗斯从伊朗撤侨](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E4%BB%8E%E4%BC%8A%E6%9C%97%E6%92%A4%E4%BE%A8)
-1. [长安的荔枝改编争议](https://www.zhihu.com/search?q=%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%E6%94%B9%E7%BC%96%E4%BA%89%E8%AE%AE)
 1. [自助火锅店现老鼠自助](https://www.zhihu.com/search?q=%E8%87%AA%E5%8A%A9%E7%81%AB%E9%94%85%E5%BA%97%E7%8E%B0%E8%80%81%E9%BC%A0%E8%87%AA%E5%8A%A9)
 1. [拜仁vs奥克兰城](https://www.zhihu.com/search?q=%E6%8B%9C%E4%BB%81vs%E5%A5%A5%E5%85%8B%E5%85%B0%E5%9F%8E)
 1. [临江仙破万](https://www.zhihu.com/search?q=%E4%B8%B4%E6%B1%9F%E4%BB%99%E7%A0%B4%E4%B8%87)

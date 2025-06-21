@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-21 14:21:53 +0800`
+`更新时间：2025-06-21 15:15:04 +0800`
 
 ## 热门搜索
 
-1. [金价跌跌不休](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91)
-1. [胖真的是一件很丢人的事吗](https://www.zhihu.com/search?q=%E8%83%96%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E4%B8%A2%E4%BA%BA%E7%9A%84%E4%BA%8B%E5%90%97)
+1. [伊朗媒体发布特拉维夫遭袭瞬间](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E7%89%B9%E6%8B%89%E7%BB%B4%E5%A4%AB%E9%81%AD%E8%A2%AD%E7%9E%AC%E9%97%B4)
+1. [罗马仕充电宝在日本发生爆炸](https://www.zhihu.com/search?q=%E7%BD%97%E9%A9%AC%E4%BB%95%E5%85%85%E7%94%B5%E5%AE%9D%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
 1. [英国央行维持利率不变](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E5%A4%AE%E8%A1%8C%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [居民楼遭啄木鸟凿墙](https://www.zhihu.com/search?q=%E5%B1%85%E6%B0%91%E6%A5%BC%E9%81%AD%E5%95%84%E6%9C%A8%E9%B8%9F%E5%87%BF%E5%A2%99)
 1. [年轻人不考研去考公了](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%80%83%E7%A0%94%E5%8E%BB%E8%80%83%E5%85%AC%E4%BA%86)
